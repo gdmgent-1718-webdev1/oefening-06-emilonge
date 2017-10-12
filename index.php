@@ -12,6 +12,4 @@ function seizoen($maand)
     
 };
 
-
  echo $huidigeMaand;
-
